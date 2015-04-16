@@ -19,3 +19,4 @@ class Snippet(models.Model):
         ordering = ('created',)
 
 
+
